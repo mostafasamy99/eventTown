@@ -1,0 +1,12 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore config.env file
+config.env
+
+# Ignore apikeys.json file
+apikeys.json
+
+# Ignore uploads
+uploads/
+config.bat

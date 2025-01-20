@@ -1,0 +1,10 @@
+
+28/5/2024
+ 
+1- Authentication 
+	- Refactor send email
+	- make an resend code via email
+
+2- Admin CRUD operation on user
+	- Check email change for add and update.
+	- make an image for users.

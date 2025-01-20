@@ -1,0 +1,21 @@
+Hostinger
+----------------------------------------
+Email : sapq.eg@gmail.com
+Pass : SAPQ12345sapq
+----------------------------------------
+
+Clould panel
+----------------------------------------
+Panel URL : https://92.113.26.116:8443
+Panel Username : admin
+panel password : f33kvt1G#8HCVXIAUe6@
+----------------------------------------
+
+VPS Cofig
+----------------------------------------
+SSH access     : ssh root@92.113.26.116
+VPS password  : f33kvt1G#8HCVXIAUe6@
+----------------------------------------
+
+
+

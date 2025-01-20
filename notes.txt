@@ -1,0 +1,14 @@
+1-we have added new field called "fcmToken" as a single field 
+2-you should send fcmToken in signup and login
+3-automatic logic added 
+4-custom notification added 
+
+to send custom notification use this request 
+url: BASE_URL/api/v1/notifications
+method: POST 
+body: {
+    "title":"test",
+    "message":"test",
+    "type":"custom",
+    "categories":["671412c0cf3d50e5bd8cd14c"]
+}

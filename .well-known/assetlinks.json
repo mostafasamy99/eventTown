@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.evntown.evyx",
+            "sha256_cert_fingerprints": [
+                "68:3C:46:F6:02:5E:2C:6F:23:45:7F:E0:A3:00:A0:79:14:F1:16:E7:41:68:33:46:4E:CE:D8:F8:60:50:C9:8A"
+            ]
+        }
+    }
+]
